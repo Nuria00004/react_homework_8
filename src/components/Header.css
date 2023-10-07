@@ -1,0 +1,16 @@
+nav {
+    width: 70%;
+    margin: 0 auto;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
